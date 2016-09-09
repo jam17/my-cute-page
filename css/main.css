@@ -1,0 +1,129 @@
+
+.menu{
+	text-align: center;
+	margin-left: 40%;
+	background-color: white;
+}
+
+.fondo{
+	background: url("../images/background.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+	}
+
+
+li{
+		list-style: none;
+		float: left;
+		margin-left: 10px; 
+		margin-top: 15px;
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	
+a{
+		color: black;
+		text-decoration: none;
+		font-family: arial;
+		text-align: left;
+		padding-left: 20px;
+
+	}
+
+.logo{
+	position: relative;
+	margin-left:200%;
+	margin-top: 20%;
+	margin-right:150%;
+
+}
+
+h1 {
+	color:white;
+	text-align: center;
+	margin-top:150px;
+}
+
+h2{
+	color: white;
+	text-align: center;
+}
+
+.fondofoto{
+	background: url("../images/tile1.png");
+	
+	background-position: center;
+	height: 500px;
+	width: 100%;
+
+}
+.perfil{
+	border:1px solid black;
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 200px;
+	height: 200px;
+	padding:2px;
+}
+.about{
+	text-align: center;
+	color: purple;
+	margin-top:50px;
+}
+p{
+	text-align: left;
+	margin-left: -3%;
+	margin-top: 7%;
+	margin-right: 120px;
+}
+
+
+h3{
+	color: purple;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+
+.gato{
+
+	border-radius: 50%;
+	border:solid purple;
+	margin-left: 50px;
+	margin-right:50px;
+	margin-bottom: 50px;
+	width: 70%;
+	padding:2px;
+
+
+}
+
+.white{
+	background-color: white;
+	width: 100%;
+}
+
+.fin{
+	color: purple;
+	text-align: center;
+	margin-top: 65px;
+	margin-bottom: 25px;
+
+}
+
+.fondoredes{
+	background: url("../images/tile2.png");
+	
+	background-position: center;
+	height: 500px;
+	width: 100%;
+}
+.redes{
+	margin-top:30px;
+	margin-left: 100px;
+	margin-right:250px;
+	padding-left:100px;
+	padding-right:200px;
+}
+

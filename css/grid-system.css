@@ -8,12 +8,12 @@
 /* Grid system */
 
 .container-fluid {
-	width:100%;
+	width:90%;
 	margin: 0px auto;
 }
 
 .container {
-	width: 90%;
+	width: 80%;
 	padding-left: 14px; 
 	padding-right: 14px;
 	margin: 0px auto;
